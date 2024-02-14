@@ -24,7 +24,7 @@ Welcome to the repository for the IB Courses Platform! This static website is de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/biology-club-website.git
+   git clone https://github.com/Muhammed4E/IB-Platform.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
