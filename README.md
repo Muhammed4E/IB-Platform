@@ -11,6 +11,7 @@ Welcome to the repository for the IB Courses Platform! This static website is de
 - CSS (Sass)
 - JavaScript (jQuery)
 - Bootstrap
+- PHP
 
 ## Features
 
@@ -32,6 +33,7 @@ Welcome to the repository for the IB Courses Platform! This static website is de
 ## Structure
 
 - `index.html`: Main HTML file for the website.
+- `contact_process.php`: Backend server for the email contact process.
 - `css/`: Contains stylesheets, with Sass files in the `scss/` directory.
 - `js/`: JavaScript files.
 - `icons/`: Contains integrations for flaticon and icomoon
